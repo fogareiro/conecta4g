@@ -42,7 +42,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.wsshbr.xyz",
-      "CheckUser": "http://uai.chockdigi.ml:8989/checkUser",
+      "CheckUser": "http://uai.chockdigi.ml:8990/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
