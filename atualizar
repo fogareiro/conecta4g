@@ -52,8 +52,8 @@
       "Name": "EUA | PLUS",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "aws.wnnn3t.ml",
-      "CheckUser": "https",
+      "ServerIP": "br.chockdigi.ml",
+      "CheckUser": "http://193.123.101.185:8090/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "free",
@@ -133,3 +133,4 @@
     }
   ]
 }
+http://193.123.101.185:8090/checkUser
