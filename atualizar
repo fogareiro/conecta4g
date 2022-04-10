@@ -52,7 +52,7 @@
       "Name": "EUA | PLUS",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "br.chockdigi.ml",
+      "ServerIP": "chk.wrnet.online",
       "CheckUser": "http://193.123.101.185:8090/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
