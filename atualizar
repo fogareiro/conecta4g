@@ -56,8 +56,8 @@
       "CheckUser": "http://193.123.101.185:8090/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "free",
-      "PASS": "free"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
