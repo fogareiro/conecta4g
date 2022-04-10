@@ -1,11 +1,11 @@
 {
   "Version": "1.0.2",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://raw.githubusercontent.com/fogareiro/atlazzzt/main/4gnet_atializar",
-  "Sms": "https://raw.githubusercontent.com/fogareiro/atlazzzt/main/UrlSms",
+  "UrlUpdate": "https://raw.githubusercontent.com/fogareiro/conecta4g/main/atualizar",
+  "Sms": "https://raw.githubusercontent.com/fogareiro/conecta4g/main/UrlSms",
   "EmailFeedback": "welingtonnssh@gmail.com",
   "UrlContato": "https://t.me/welingtonn",
-  "UrlTermos": "http://wnnn3t.ga/4gnet.html",
+  "UrlTermos": "https://t.me/welingtonn",
   "CheckUser": "true",
   "FormatCheck": "yyyymmdd",
   "Udp": [
@@ -27,7 +27,7 @@
   ],
   "Servers": [
     {
-      "Name": "BRASIL | PLUS1",
+      "Name": "Servidor | PLUS 1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.wsshbr.xyz",
@@ -38,7 +38,7 @@
       "PASS": ""
     },
     {
-      "Name": "BRASIL | PLUS2",
+      "Name": "Servidorl | PLUS 2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.wsshbr.xyz",
@@ -49,11 +49,33 @@
       "PASS": ""
     },
     {
-      "Name": "EUA | PLUS",
+      "Name": "Servidor | PLUS 3",
+      "TYPE": "premium",
+      "FLAG": "ca.png",
+      "ServerIP": "chk.wrnet.online",
+      "CheckUser": "http://chk.wrnet.online:8090/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "Servidor | PLUS 4",
+      "TYPE": "premium",
+      "FLAG": "ca.png",
+      "ServerIP": "chk.wrnet.online",
+      "CheckUser": "http://chk.wrnet.online:8090/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "Servidor | TESTE 5",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "chk.wrnet.online",
-      "CheckUser": "http://193.123.101.185:8090/checkUser",
+      "CheckUser": "http://chk.wrnet.online:8090/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -92,26 +114,6 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIM VIVO- 04",
-      "FLAG": "tim",
-      "Payload": "GET ws://univ.wnnn3t.ml HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "univ.wnnn3t.ml",
-      "TlsIP": "univ.wnnn3t.ml",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "CLARO - 05",
-      "FLAG": "claro",
-      "Payload": "GET sni://cdn.jsdelivr.net HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "cdn.jsdelivr.net",
-      "TlsIP": "cdn.jsdelivr.net",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
       "Name": "CLARO TIM- 06",
       "FLAG": "claro",
       "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
@@ -133,4 +135,3 @@
     }
   ]
 }
-http://193.123.101.185:8090/checkUser
