@@ -114,7 +114,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO TIM- 06",
+      "Name": "CLARO TIM- 04",
       "FLAG": "claro",
       "Payload": "GET ws://cdnjs.cloudflare.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "cdnjs.cloudflare.com",
@@ -124,7 +124,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "OI 07",
+      "Name": "OI 05",
       "FLAG": "oi",
       "Payload": "GET sni://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
