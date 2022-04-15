@@ -104,7 +104,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "TIM VIVO- 03",
+      "Name": "TIM VIVO- 003",
       "FLAG": "tim",
       "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
