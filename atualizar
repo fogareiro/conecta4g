@@ -63,7 +63,7 @@
       "Name": "Servidor | PLUS 4",
       "TYPE": "premium",
       "FLAG": "us.png",
-      "ServerIP": "http://us1.wnnn3t.ml",
+      "ServerIP": "us.chockdigi.ml",
       "CheckUser": "http://checkeruserus.ddns.net:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
