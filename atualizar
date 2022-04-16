@@ -31,7 +31,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.wsshbr.xyz",
-      "CheckUser": "http://18.230.197.62:8989/checkUser",
+      "CheckUser": "http://br1.chockdigi.ml:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
