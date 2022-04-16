@@ -31,7 +31,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.chockdigi.ml",
-      "CheckUser": "http://checkeruserbr.ddns.net:8989/checkUser",
+      "CheckUser": "http://br1.chockdigi.ml:8990/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
