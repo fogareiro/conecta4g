@@ -31,7 +31,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.wsshbr.xyz",
-      "CheckUser": "http://checkeruserbr.ddns.net:8989/checkUser",
+      "CheckUser": "http://checkeruserbr.ddns.net:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
