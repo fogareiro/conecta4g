@@ -75,11 +75,11 @@
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "us.chockdigi.ml",
-      "CheckUser": "http://checkeruserus.ddns.net:8990/checkUser",
+      "CheckUser": "http://checkeruserus.ddns.net:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "free",
-      "PASS": "free"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
