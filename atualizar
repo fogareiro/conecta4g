@@ -41,7 +41,7 @@
       "Name": "Servidorl | PLUS 2",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br.chockdigi.ml",
+      "ServerIP": "br1.chockdigi.ml",
       "CheckUser": "http://checkeruserbr.ddns.net:8990/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
