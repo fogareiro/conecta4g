@@ -27,7 +27,7 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor | PLUS 1",
+      "Name": "Servidor | Principal",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.chockdigi.ml",
@@ -38,44 +38,33 @@
       "PASS": ""
     },
     {
-      "Name": "Servidorl | PLUS 2",
+      "Name": "Servidorl | Reserva 1",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br1.chockdigi.ml",
-      "CheckUser": "http://checkeruserbr.ddns.net:8990/checkUser",
+      "ServerIP": "br.chockdigi.ml",
+      "CheckUser": "/",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
     {
-      "Name": "Servidor | PLUS 3",
+      "Name": "Servidor | Reserva 2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br2.wnnn3t.ml",
-      "CheckUser": "http://ch.wsshbr.xyz:8990/checkUser",
+      "CheckUser": "/",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
     {
-      "Name": "Servidor | PLUS 4",
-      "TYPE": "premium",
-      "FLAG": "us.png",
-      "ServerIP": "us.chockdigi.ml",
-      "CheckUser": "http://23.99.132.55:8990/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
-      "Name": "Servidor | TESTE 5",
+      "Name": "Servidor | Free",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "us.chockdigi.ml",
-      "CheckUser": "http://checkeruserus.ddns.net:8989/checkUser",
+      "CheckUser": "/",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
