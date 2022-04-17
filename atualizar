@@ -113,11 +113,11 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "OI 05",
-      "FLAG": "oi",
-      "Payload": "GET sni://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "Name": "CLARO 05",
+      "FLAG": "claro",
+      "Payload": "GET sni://parceirosclaro.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "parceirosclaro.com.br",
+      "TlsIP": "parceirosclaro.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
